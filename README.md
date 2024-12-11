@@ -1,4 +1,6 @@
-![github-header-image (3)](https://github.com/user-attachments/assets/b7c11ce1-eb74-463a-b35b-53de51798aab)
+![github-header-image (5)](https://github.com/user-attachments/assets/1ff45607-2a2e-43f1-9b1c-7288bf306774)
+
+
 
 # Hi, а little bit about me:
 - 🔭 I’m currently working on golang
