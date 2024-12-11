@@ -1,13 +1,12 @@
-## Hi there 👋
+![076fc63c-5080-4720-89a5-e91e81eaf924](https://github.com/user-attachments/assets/6ea3306b-5210-4910-ac1d-0fc54d9159ed)
+
 # So it's the first line
 I'm:
 - use the golang
 - use the c++
 - try get better
 - just love my life
-![0bfcf1ea-5005-432f-83ae-5b533db4be7c](https://github.com/user-attachments/assets/02e9ecd8-ff83-4426-9be0-463741fb3626)
-
-
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/Ch_Sergey_vt)
 <!--
 **Sergi-Ch/Sergi-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
