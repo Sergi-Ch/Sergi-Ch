@@ -1,14 +1,20 @@
-![github-header-image](https://github.com/user-attachments/assets/356d0e51-6b04-40f9-a940-ba97d0c5de58)
+![github-header-image (3)](https://github.com/user-attachments/assets/b7c11ce1-eb74-463a-b35b-53de51798aab)
+
+# Hi, а little bit about me:
+- 🔭 I’m currently working on golang
+- 🌱 I’m currently learning same
+- 📫 How to reach me: [touch](https://t.me/Ch_Sergey_vt)
+- ⚡ Fun fact: I love downhill and tasty coffe
+  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-# So it's the first line
-I'm:
-- use the golang
-- use the c++
-- try get better
-- just love my life
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/Ch_Sergey_vt)
+![](https://komarev.com/ghpvc/?username=Sergi-Ch&color=red)
+
+
+
 <!--
 **Sergi-Ch/Sergi-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
