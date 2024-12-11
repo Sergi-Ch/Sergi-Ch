@@ -1,4 +1,5 @@
-![475badd4-3b60-4957-bc25-3edf404fb95a-2](https://github.com/user-attachments/assets/8af768ac-109a-42cb-962d-4c2896b9ec37)
+![github-header-image](https://github.com/user-attachments/assets/356d0e51-6b04-40f9-a940-ba97d0c5de58)
+
 
 # So it's the first line
 I'm:
