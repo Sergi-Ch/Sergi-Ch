@@ -1,4 +1,4 @@
-![076fc63c-5080-4720-89a5-e91e81eaf924](https://github.com/user-attachments/assets/6ea3306b-5210-4910-ac1d-0fc54d9159ed)
+![475badd4-3b60-4957-bc25-3edf404fb95a](https://github.com/user-attachments/assets/5960b853-886c-4586-ab63-5f15546b5eb8)
 
 # So it's the first line
 I'm:
@@ -6,6 +6,7 @@ I'm:
 - use the c++
 - try get better
 - just love my life
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/Ch_Sergey_vt)
 <!--
 **Sergi-Ch/Sergi-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
