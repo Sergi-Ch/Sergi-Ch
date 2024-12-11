@@ -1,4 +1,12 @@
 ## Hi there 👋
+# So it's the first line
+I'm:
+- use the golang
+- use the c++
+- try get better
+- just love my life
+![0bfcf1ea-5005-432f-83ae-5b533db4be7c](https://github.com/user-attachments/assets/02e9ecd8-ff83-4426-9be0-463741fb3626)
+
 
 <!--
 **Sergi-Ch/Sergi-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
